@@ -90,5 +90,6 @@ App = {
         })
 
         window.location.reload()
-    }
+    },
+
 }
